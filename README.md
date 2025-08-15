@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>bBIENVENIDO  PUBLICACION DE LIBROS</h1>
+        <h1>BIENVENIDO  PUBLICACION DE LIBROS</h1>
         <nav>
             <a href="index.html">Home</a> |
             <a href="perfil.html">Perfil</a> |
